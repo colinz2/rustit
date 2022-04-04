@@ -1,3 +1,5 @@
+# 开始
+
 ## Install the rustc:
 Install it:
 ```
@@ -16,6 +18,13 @@ cargo new 01_hello --bin
 // --bin or --lib
 ```
 run the code: `cargo run`
+
+
+# 基本数据类型 
+
+
+# 流程控制语句
+
 
 
 
