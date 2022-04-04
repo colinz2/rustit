@@ -7,7 +7,7 @@ fn main() {
     let target_number: u32 = rand::thread_rng().gen_range(1..100);
 
     loop {
-        println!("Please input your numbrer!");
+        println!("Please input your number!");
         let mut guess = String::new();
         io::stdin().read_line(&mut guess).unwrap();
 
