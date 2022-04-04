@@ -1,0 +1,2 @@
+# rustit
+Just rust code. 
