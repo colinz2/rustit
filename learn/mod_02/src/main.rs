@@ -1,4 +1,4 @@
-// 注意 mod 是模型，use 是 crate
+// 注意 mod 是模块，use 是 crate
 // 导入模块
 mod mod1;
 mod mod2;

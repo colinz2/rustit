@@ -20,11 +20,6 @@ cargo new 01_hello --bin
 run the code: `cargo run`
 
 
-# 基本数据类型 
-
-
-# 流程控制语句
-
 
 
 
